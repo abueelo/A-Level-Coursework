@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4101575075
+    locked: 0
+  - name: Collectables
+    uniqueID: 1840088611
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1732458287
+    locked: 0
+  - name: Player
+    uniqueID: 3326766683
+    locked: 0
+  - name: Minotaur
+    uniqueID: 3914757535
+    locked: 0
+  - name: above
+    uniqueID: 3871939583
+    locked: 0
